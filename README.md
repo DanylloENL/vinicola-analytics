@@ -4,7 +4,7 @@
 
 Este projeto apresenta uma análise do mercado de importação de vinhos entre **2008 e 2023**, com foco especial no **Brasil**, utilizando dados históricos de volume (litros) e valor financeiro (USD).
 
-O estudo foi desenvolvido no contexto do **Tech Challenge (Fase 1)** da minha Pós-Graduação em Data Analytics na FIAP, desafio voltado à aplicação prática de **análise de dados e inteligência de mercado**, com o objetivo de gerar insights estratégicos para o setor vitivinícola.
+O estudo foi desenvolvido no contexto do **Tech Challenge (Fase 1) da minha Pós-Graduação em Data Analytics na FIAP**, desafio voltado à aplicação prática de análise de dados e inteligência de mercado, com o objetivo de gerar insights estratégicos para o setor vitivinícola.
 ---
 
 ## 🎯 Objetivos
