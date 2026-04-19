@@ -23,9 +23,9 @@ O projeto foi desenvolvido no contexto de uma **pós-graduação**, integrando a
 ## 📂 Estrutura do Repositório
 
 ```text
-analise_vinhos.py
-base_importacao_completa_2008_2023.csv
-O Mercado de Vinho - Relatorio.pdf
+Analise_Vinhos.py
+Dados/base_importacao_completa_2008_2023.csv
+Documentos/O Mercado de Vinho - Relatorio.pdf
 README.md
 ```
 
