@@ -2,12 +2,9 @@
 
 ## 📌 Visão Geral
 
-Este projeto apresenta uma análise do **mercado de importação de vinhos** no período de **2008 a 2023**, com foco especial no **Brasil**.
+Este projeto apresenta uma análise do mercado de importação de vinhos entre **2008 e 2023**, com foco especial no **Brasil**, utilizando dados históricos de volume (litros) e valor financeiro (USD).
 
-O estudo utiliza dados históricos de volume (litros) e valor financeiro (USD), com o objetivo de identificar tendências de mercado, principais parceiros comerciais e oportunidades estratégicas para o setor vitivinícola.
-
-O projeto foi desenvolvido no contexto de uma **pós-graduação**, integrando análise de dados, contexto econômico e visualização analítica.
-
+O estudo foi desenvolvido no contexto do **Tech Challenge (Fase 1)** da minha Pós-Graduação em Data Analytics na FIAP, desafio voltado à aplicação prática de **análise de dados e inteligência de mercado**, com o objetivo de gerar insights estratégicos para o setor vitivinícola.
 ---
 
 ## 🎯 Objetivos
@@ -131,11 +128,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 python analise_vinhos.py
 ```
 
----
-
 ## 🎓 Contexto Acadêmico
 
-Projeto desenvolvido como parte de uma **pós-graduação**, com foco em:
-- Análise de dados
-- Inteligência de mercado
-- Apoio à tomada de decisão no setor vitivinícola
+Este projeto foi desenvolvido no âmbito da minha **Pós-Graduação em Data Analytics na FIAP**, com foco na aplicação prática de técnicas de análise de dados para suporte à tomada de decisão estratégica.
+
+A proposta do trabalho consistiu em analisar o comportamento do mercado de vinhos ao longo do tempo, integrando dados econômicos, contexto setorial e visualizações analíticas, aproximando o ambiente acadêmico de cenários reais de negócio.
