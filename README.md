@@ -1,5 +1,12 @@
 # 🍷 Análise do Mercado de Importação de Vinhos (2008–2023)
 
+> ### Em resumo
+> **Problema:** avaliar o mercado de importação de vinhos de 2008 a 2023 e a posição do Brasil, a partir de bases históricas com volume e valor.  
+> **Solução:** consolidação e limpeza das bases em Python, análise de volume e valor por país e projeção para 2024 com regressão linear.  
+> **Ferramentas:** Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn.  
+> **Resultado:** panorama dos principais fornecedores (Chile, Argentina, Portugal e França), evolução do Brasil ao longo do tempo e relatório com insights para o setor.  
+> **Como isso ajuda um cliente:** uma base histórica de vendas ou de mercado pode virar um estudo de tendências, com os principais players e uma projeção.  
+
 Este projeto apresenta uma análise do mercado de importação de vinhos entre **2008 e 2023**, com foco especial no **Brasil**, utilizando dados históricos de volume (litros) e valor financeiro (USD).
 
 ---
